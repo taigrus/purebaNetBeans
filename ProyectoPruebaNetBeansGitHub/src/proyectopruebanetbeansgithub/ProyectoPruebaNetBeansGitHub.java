@@ -8,7 +8,10 @@ public class ProyectoPruebaNetBeansGitHub {
     public static void main(String[] args) {
         System.out.println("Este es un programa desde netbeans para probar git");
         System.out.println("Esta es una segunda linea de texto");
-        //comentario incrementado en la web
+        /*Esto es un
+        comentario adicionado
+        en Netbeans
+        */
     }
     
 }
