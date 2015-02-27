@@ -14,4 +14,8 @@ public class ProyectoPruebaNetBeansGitHub {
         */
     }
     
+    public void miMetodo(){
+        System.out.println("Solo un mensaje");
+    }
+    
 }
